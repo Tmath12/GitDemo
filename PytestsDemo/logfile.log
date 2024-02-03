@@ -1,0 +1,6 @@
+2023-09-14 23:59:43,907 : INFO : PytestsDemo.test_logging : Info of the testcase
+2023-09-14 23:59:43,909 : WARNING : PytestsDemo.test_logging : log.warning - something is not correct
+2023-09-14 23:59:43,909 : ERROR : PytestsDemo.test_logging : Failure of testcase
+2023-09-14 23:59:43,909 : CRITICAL : PytestsDemo.test_logging : BLOCKER
+2023-09-15 00:12:49,281 : INFO : PytestsDemo.BaseClass : Rahul
+2023-09-15 00:12:49,282 : INFO : PytestsDemo.BaseClass : rahulshettyacademy.com
